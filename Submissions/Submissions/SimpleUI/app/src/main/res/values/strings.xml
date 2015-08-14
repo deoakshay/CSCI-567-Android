@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2-SimpleUI-Akshay-Deo</string>
+    <string name="button1">Increment Text View 1</string>
+    <string name="button2">Decrement Text View 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="button3">Reset both Text Views</string>
+</resources>

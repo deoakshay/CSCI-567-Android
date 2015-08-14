@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Google+</string>
+
+    <string name="signing_in">Signing IN</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signedin">Signedin</string>
+
+    <string name="hello_worlds">Hello world!</string>
+    <string name="Signed_in">Signed In</string>
+    <string name="title_activity_signed_in">SignedIn</string>
+</resources>

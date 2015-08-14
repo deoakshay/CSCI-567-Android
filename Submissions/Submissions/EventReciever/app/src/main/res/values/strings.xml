@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Receiver</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gps__event_reciever">GPS_EventReciever</string>
+    <string name="title_activity_gps">GPS</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="alert">Alert!!</string>
+</resources>

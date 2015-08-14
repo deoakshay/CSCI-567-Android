@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PicShare</string>
+    <string name="capture_btn">Capture</string>
+    <string name="save_btn">Save</string>
+    <string name="share_btn">Share</string>
+    <string name="gallery_btn">Gallery</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,5 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment"
+    android:name="com.akshay.hello_world_akshay_deo.Hello_World_Akshay_DeoFragment"
+    tools:layout="@layout/fragment_hello__world__akshay__deo" android:layout_width="match_parent"
+    android:layout_height="match_parent" />

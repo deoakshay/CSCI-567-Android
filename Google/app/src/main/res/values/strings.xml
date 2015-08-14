@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pic Share</string>
+
+
+    <string name="Photo">Photo</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="signing_in">Signing In.....</string>
+    <string name="title_activity_signing_in">Sign In</string>
+    <string name="facebook_app_id">1600928696814901</string>
+
+
+
+    <string name="capture_btn">Capture</string>
+    <string name="save_btn">Save</string>
+    <string name="share_btn">Share</string>
+    <string name="gallery_btn">Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_screen">Home Screen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_logged_in">Logged In</string>
+    <string name="title_activity_pic_upload">Upload an Image</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_add_friends">Add_friends</string>
+    <string name="title_activity_contact__picker">Contact_Picker</string>
+
+</resources>

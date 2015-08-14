@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PicShare</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_screen">Home Screen</string>
+
+    <string-array name="Menu">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Settings</item>
+    </string-array>
+
+
+</resources>
